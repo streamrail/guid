@@ -1,4 +1,4 @@
-# guid
+# guid [![Circle CI](https://circleci.com/gh/streamrail/guid.svg?style=svg)](https://circleci.com/gh/streamrail/guid)
 
 CommonJS guid generation module. 
 
