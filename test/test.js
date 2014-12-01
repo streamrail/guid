@@ -17,5 +17,6 @@ describe('guid generation', function() {
 		spl[3].length.should.equal(4);
 		spl[4].length.should.equal(12);
 		done();
+		process.exit(0);
 	});
 });
