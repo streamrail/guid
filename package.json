@@ -1,0 +1,17 @@
+{
+  "name": "guid",
+  "version": "1.0.0",
+  "description": "guid generator",
+  "main": "index.js",
+  "scripts": {
+   "test": "node_modules/.bin/mocha -w"
+   },
+   "devDependencies": {
+     "mocha": "*",
+     "chai": "latest",
+     "chai-as-promised": "latest",
+     "should": ">= 0.0.1"
+     },
+     "author": "orcaman",
+     "license": "MIT"
+   }
