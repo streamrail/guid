@@ -16,3 +16,6 @@ a simple test to validate the structure of the guid is provided. to run:
 ```
 npm test
 ```
+
+# license 
+MIT (see license file)
