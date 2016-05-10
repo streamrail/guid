@@ -1,5 +1,5 @@
 {
-  "name": "guid",
+  "name": "@streamrail/guid",
   "version": "1.0.0",
   "description": "guid generator",
   "main": "index.js",
